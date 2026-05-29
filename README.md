@@ -7,6 +7,6 @@
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedro-hmenezes&theme=2077)](https://github.com/pedro-hmenezes)
 
 &nbsp;
-[linkedin](https://linkedin.com/in/pedro-hmenezes) &nbsp;·&nbsp; [email](mailto:seuemail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pemenezes/)
 
 </div>
